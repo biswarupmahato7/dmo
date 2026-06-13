@@ -58,8 +58,17 @@ a:hover {
   text-decoration-color: rgb(181, 181, 181);
 }
 
-.logo {
+/* .logo {
   font-size: 2rem;
+} */
+
+.logo {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #111827;
 }
 
 .logo:hover {
